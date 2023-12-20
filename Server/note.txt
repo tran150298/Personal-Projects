@@ -1,0 +1,13 @@
+Them features : 
+1 : Filters 
+2 : View , edit and delete pics
+3 : Log in, check accounts
+
+
+.....
+Update : 
+Form validation is good. 
+Need to update the :
+	- Fiflter
+	- View, Edit , Delete (html + js (scripts, copyscript, selectedpic.js) files) 
+	- 

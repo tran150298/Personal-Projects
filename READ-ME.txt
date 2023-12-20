@@ -1,0 +1,13 @@
+Author : Minh Thong Tran
+This is a Pinterest Clone, users can view pitures from my source,
+ filter by using keywords such as : "line pen, water color, color, building, prople, marker, landscape,...."
+
+Note :
+You can VIEW any pic by click on it. 
+You can ONLY Edit pics when you are in selectedic.html , then choose the pic AGAIN.
+You can DELETE the displayed pic.
+You can ADD more pics into the page, we are providing 3 SIZES for you to add. 
+
+When you register , new account will be stored in data.txt , and you can not view the 
+password due to security policy.
+
