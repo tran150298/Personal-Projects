@@ -1,6 +1,0 @@
-Them features : 
-1 : Filters 
-2 : View , edit and delete pics 
-	- Mainpage , click any pic will show the modal_pin + pic do trong khung,
-	Delete se delte pic do tren page luon, ko di toi Selectedpic.html. Edit cung v
-3 : Log in, check accounts
